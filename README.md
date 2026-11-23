@@ -79,7 +79,7 @@ Three classification models are available — pick based on your hardware:
 ## 🏗️ Project Layout
 
 ```
-Support-Ticket-Assist-With-RAG/
+Support-Ticket-Assistant-With-RAG/
 │
 ├── 📁 data/
 │   ├── raw/              ← Synthetic + Twitter ticket datasets
@@ -134,8 +134,8 @@ Support-Ticket-Assist-With-RAG/
 ### Step 1 — Clone & enter the project
 
 ```bash
-git clone https://github.com/nikhil9verma/Support-Ticket-Assist-With-RAG.git
-cd Support-Ticket-Assist-With-RAG
+git clone https://github.com/nikhil9verma/Support-Ticket-Assistant-With-RAG.git
+cd Support-Ticket-Assistant-With-RAG
 ```
 
 ### Step 2 — Create a virtual environment
@@ -278,11 +278,7 @@ Metrics are scraped from `/api/v1/metrics`.
 
 | Name |
 |---|
-| Hasham Abdelrahman |
-| Enas Essam |
-| Hossam Ashraf |
-| Ahmed Magdy |
-| Randa Hamada |
+| Nikhil Verma |
 
 ---
 

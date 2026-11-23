@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="intelligent-support-rag",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Nikhil Verma",
+    author_email="nikhil9verma@users.noreply.github.com",
     description="Support Ticket Assistant with RAG",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/intelligent-support-rag",
+    url="https://github.com/nikhil9verma/Support-Ticket-Assistant-With-RAG",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

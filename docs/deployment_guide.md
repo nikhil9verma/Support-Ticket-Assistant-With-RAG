@@ -199,4 +199,4 @@ echo $DATABASE_URL
 
 ## Support
 
-For issues or questions, contact the development team or check the [GitHub Issues](https://github.com/yourusername/intelligent-support-rag/issues).
+For issues or questions, contact the development team or check the [GitHub Issues](https://github.com/nikhil9verma/Support-Ticket-Assistant-With-RAG/issues).
